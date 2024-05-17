@@ -1,4 +1,4 @@
-Competition: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality
+Competition: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality <br>
 Efficiency Track Leaderboard: https://www.kaggle.com/code/ryanholbrook/writing-processes-efficiency-lb
 
 This repository contains the files for my solution to the competition. I focused exclusively on the efficiency track, as the challenge of balancing accuracy and speed was very compelling.
