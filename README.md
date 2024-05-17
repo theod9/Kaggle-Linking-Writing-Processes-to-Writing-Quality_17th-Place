@@ -1,1 +1,1 @@
-# Linking-Writing-Processes-to-Writing-Quality_17th-Place
+Competition: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality
